@@ -1,18 +1,11 @@
-""" capstone_project_3.py: Python Music Player - using Tkinter and pygame """
-
-__author__ = "Utsav Shah"
-__copyright__ = "Copyright 2017, The Austin Side Project"
-__credits__ = ["Hustle"]
-__license__ = "UTS"
-__version__ = "1.4.0"
-__maintainer__ = "Utsav Shah"
-__email__ = "utsavshah507@gmail.com"
+# This python program is used to implement a Python Music Player while browsing songs on one's computer
+__author__ = "Shiban Banerjee"
+__copyright__ = "Copyright 2019, The Three Musketeers"
+__version__ = "1.1.0"
+__maintainer__ = "Shiban Banerjee"
+__email__ = "shiban.banerjee@gmail.com"
 __status__ = "Productive"
 
-'''
-This python program is used to implement a Python 
-Music Player while browsing songs on one's computer
-'''
 
 from Tkinter import *
 import tkFileDialog as tk

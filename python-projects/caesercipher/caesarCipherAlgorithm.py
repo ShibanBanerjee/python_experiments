@@ -1,18 +1,12 @@
-#!/Users/Utsav/downloads/udemy python
 
-# For using the same code in either Python 2 or 3
-# from __future__ import print_function
-
-""" milestone_project_1.py: Tic Tac Toe Game """
-
-__author__ = "Utsav Shah"
-__copyright__ = "Copyright 2017, The Austin Side Project"
-__credits__ = ["Hustle"]
-__license__ = "UTS"
+# Caesar Cipher Algorithm
+__author__ = "Shiban Banerjee"
+__copyright__ = "Copyright 2019, The Three Musketeers"
 __version__ = "1.1.0"
-__maintainer__ = "Utsav Shah"
-__email__ = "utsavshah507@gmail.com"
+__maintainer__ = "Shiban Banerjee"
+__email__ = "shiban.banerjee@gmail.com"
 __status__ = "Productive"
+
 
 ## Milestone Project 2
 
